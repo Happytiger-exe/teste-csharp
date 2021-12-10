@@ -1,0 +1,10 @@
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\bin\Debug\Test la C-Sharp.exe.config
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\bin\Debug\Test la C-Sharp.exe
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\bin\Debug\Test la C-Sharp.pdb
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test la C-Sharp.csprojAssemblyReference.cache
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test_la_C_Sharp.Sawcon.resources
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test_la_C_Sharp.Properties.Resources.resources
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test la C-Sharp.csproj.GenerateResource.cache
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test la C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test la C-Sharp.exe
+C:\Users\Happytiger289\Desktop\stuff\projects\vs\cs\Test la C-Sharp\obj\Debug\Test la C-Sharp.pdb
