@@ -1,0 +1,10 @@
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\bin\Debug\Glorious_app_by _Ghenghea_Andrei.exe.config
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\bin\Debug\Glorious_app_by _Ghenghea_Andrei.exe
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\bin\Debug\Glorious_app_by _Ghenghea_Andrei.pdb
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by _Ghenghea_Andrei.csprojAssemblyReference.cache
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by__Ghenghea_Andrei.Form1.resources
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by__Ghenghea_Andrei.Properties.Resources.resources
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by _Ghenghea_Andrei.csproj.GenerateResource.cache
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by _Ghenghea_Andrei.csproj.CoreCompileInputs.cache
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by _Ghenghea_Andrei.exe
+C:\Users\Happytiger289\source\repos\Glorious_app_by _Ghenghea_Andrei\obj\Debug\Glorious_app_by _Ghenghea_Andrei.pdb
